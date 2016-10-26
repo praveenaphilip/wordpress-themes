@@ -1,0 +1,39 @@
+/*
+	Theme Name: Wordstrap
+	Author: Praveena Philip
+	Author URI: http://invent-o.com
+	Description: Simple Bootstrap Theme for Wordpress
+	Version: 1.0
+*/
+
+article.post img {
+    width: 100%;
+    height: auto;
+    margin-top: 30px;
+}
+
+articel.post:last-child {
+    border-bottom: none;
+}
+
+article.post .meta {
+    background: #f4f4f4;
+    padding: 8px 12px;
+    color: #333;
+}
+
+article.post {
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 20px;
+    margin-bottom: 30px;
+}
+
+.comment-list {
+    list-style: none;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.comment-item {
+    overflow: auto;
+}
